@@ -440,15 +440,15 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
+            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
+          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          description: "",
+          section: "News",},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-recognized-for-outstanding-academic-achievement-and-invited-to-join-upsilon-pi-epsilon-upe-the-international-honor-society-for-computing-sciences",
+            },},{id: "news-recognized-for-outstanding-academic-achievement-and-invited-to-join-upsilon-pi-epsilon-upe-the-international-honor-society-for-computing-sciences",
           title: 'Recognized for outstanding academic achievement and invited to join Upsilon Pi Epsilon (UPE),...',
           description: "",
           section: "News",},{id: "projects-project-1",

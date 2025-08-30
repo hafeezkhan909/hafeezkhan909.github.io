@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://research.fit.edu/assist-lab/people/view-profile-187868-en.php'>Research Assistant (NASA), Florida Tech</a>
 
 profile:
   align: right

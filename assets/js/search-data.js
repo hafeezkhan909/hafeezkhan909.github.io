@@ -443,12 +443,10 @@ ninja.data = [{
             },},{id: "news-adapt-but-don-t-forget-accepted-at-iccv-2025-2coool-workshop-poster-presentation",
           title: 'Adapt But Don’t Forget accepted at ICCV 2025 (2COOOL Workshop, Poster Presentation)!',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-test-time-prompt-refinement-for-text-to-image-models-accepted-at-iccv-2025-mars2-workshop-oral-presentation",
+          title: 'Test-time Prompt Refinement for Text-to-Image Models accepted at ICCV 2025 (MARS2 Workshop, Oral...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-recognized-for-outstanding-academic-achievement-and-invited-to-join-upsilon-pi-epsilon-upe-the-international-honor-society-for-computing-sciences",
+          section: "News",},{id: "news-recognized-for-outstanding-academic-achievement-and-invited-to-join-upsilon-pi-epsilon-upe-the-international-honor-society-for-computing-sciences",
           title: 'Recognized for outstanding academic achievement and invited to join Upsilon Pi Epsilon (UPE),...',
           description: "",
           section: "News",},{id: "projects-project-1",

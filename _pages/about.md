@@ -29,4 +29,4 @@ Previously, I completed my undergraduate studies at BITS Pilani Dubai, where I f
 
 *Reach out by email if our interests align and you wish to collaborate!*
 
-**Also, I’m actively seeking an internship for Summer 2026—because models aren’t the only ones that need fine-tuning!!**
+**Also, I’m actively seeking an internship for Summer 2026—because models aren’t the only ones that need continual learning!!**

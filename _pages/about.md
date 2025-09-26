@@ -23,9 +23,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Welcome! I am a PhD student specializing in how foundation models adapt under distribution shift, addressing challenges in continual learning and few-shot learning. My advisor is [Siddhartha Bhattacharyya](https://www.fit.edu/faculty-profiles/b/bhattacharyya-siddhartha/), and I am funded by NASA, where I am working on lane detection for autonomous driving and taxiing on airports. 
+Welcome! I am a PhD student specializing in how foundation models adapt under distribution shift. My advisor is [Siddhartha Bhattacharyya](https://www.fit.edu/faculty-profiles/b/bhattacharyya-siddhartha/), and I am funded by NASA Langley Research Center. Alongside my PhD, I have worked closely with mentors from Microsoft Research, UTHealth Houston, Collins Aerospace. Through these collaborations, I have gained extensive experience especially in self-supervised models, diffusion models, and multimodal large-language models. I am currently working with novel view synthesis and compression of 3D Gaussian models. 
 
-Previously, I completed my undergraduate studies at BITS Pilani Dubai, where I finished my thesis under the guidance of [Raja Muthalaghu](https://www.bits-pilani.ac.in/dubai/raja-muthalagu/) and received the Outstanding Undergraduate Thesis Award. Alongside my PhD, I have worked closely with mentors from Microsoft Research, NASA Langley, UTHealth Houston, Collins Aerospace. Through these collaborations, I have gained extensive experience especially in self-supervised models, diffusion models, and multimodal large-language models.
+Previously, I completed my undergraduate studies at BITS Pilani Dubai, where I finished my thesis under the guidance of [Raja Muthalaghu](https://www.bits-pilani.ac.in/dubai/raja-muthalagu/) and received the Outstanding Undergraduate Thesis Award. 
+
 
 *Reach out by email if our interests align and you wish to collaborate!*
 

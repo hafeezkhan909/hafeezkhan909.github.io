@@ -28,10 +28,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-adapt-but-don-t-forget-accepted-at-iccv-2025-2coool-workshop-poster-presentation",
-          title: 'Adapt But Don’t Forget accepted at ICCV 2025 (2COOOL Workshop, Poster Presentation)!',
-          description: "",
-          section: "News",},{id: "news-test-time-prompt-refinement-for-text-to-image-models-accepted-at-iccv-2025-mars2-workshop-oral-presentation",
+            },},{id: "news-test-time-prompt-refinement-for-text-to-image-models-accepted-at-iccv-2025-mars2-workshop-oral-presentation",
           title: 'Test-time Prompt Refinement for Text-to-Image Models accepted at ICCV 2025 (MARS2 Workshop, Oral...',
           description: "",
           section: "News",},{id: "news-recognized-for-outstanding-academic-achievement-and-invited-to-join-upsilon-pi-epsilon-upe-the-international-honor-society-for-computing-sciences",
@@ -39,6 +36,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-won-1st-place-in-the-iccv-2025-computationally-optimal-gaussian-splatting-cogs-competition-hosted-by-meta-and-university-of-toronto",
           title: 'Won 1st Place in the ICCV 2025, Computationally Optimal Gaussian Splatting (COGS) Competition...',
+          description: "",
+          section: "News",},{id: "news-accepted-summer-2026-internship-offer-from-collins-aerospace-and-will-be-working-on-agentic-vision-language-models",
+          title: 'Accepted Summer 2026 Internship Offer from Collins Aerospace, and will be working on...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',

@@ -30,4 +30,4 @@ multi-modal learning and 3D reconstruction. I recently won 1st place in a [Meta-
 
 Previously, I earned my B.Tech. in Computer Science from BITS Pilani Dubai, graduating with an Excellence in Research Award under [Raja Muthalaghu](https://www.bits-pilani.ac.in/dubai/raja-muthalagu/).
 
-*Please reach out by email if our interests align and if you would like to collaborate!*
+*Please reach out by email if our interests align and you'd like to collaborate!*

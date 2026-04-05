@@ -25,9 +25,8 @@ latest_posts:
 
 Welcome! I am a Ph.D. student in Computer Science at Florida Tech, working on self-supervised learning, vision-language models, and novel view synthesis. My PhD advisor is [Siddhartha Bhattacharyya](https://www.fit.edu/faculty-profiles/b/bhattacharyya-siddhartha/), and I am funded by NASA Langley Research Center, where I am co-advised by [Natasha Neogi](https://www.linkedin.com/in/natasha-neogi-a15337110/). 
 
-Alongside my PhD, I have collaborated closely with mentors from Microsoft Research, American Heart Association, and Collins Aerospace, gaining deep expertise in 
-multi-modal learning and 3D reconstruction. I recently won 1st place in a Meta-hosted competition at ICCV 2025, developing a lossy 3DGS compression algorithm 
-that achieved a 95.6% reduction in model size.
+Alongside my PhD, I have collaborated closely with mentors from Microsoft Research, American Heart Association, and Collins Aerospace, gaining experience in 
+multi-modal learning and 3D reconstruction. I recently won 1st place in a [Meta-hosted competition](https://news.fit.edu/science/ph-d-student-wins-first-place-in-prestigious-computer-vision-competition/) at ICCV 2025, developing a lossy 3DGS compression algorithm that achieved a 95.6% reduction in model sizes.
 
 Previously, I earned my B.Tech. in Computer Science from BITS Pilani Dubai, graduating with an Excellence in Research Award under [Raja Muthalaghu](https://www.bits-pilani.ac.in/dubai/raja-muthalagu/).
 

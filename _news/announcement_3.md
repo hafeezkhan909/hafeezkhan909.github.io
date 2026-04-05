@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-07-11 07:59:00-0400
+date: 2026-02-09 07:59:00-0400
 inline: true
 related_posts: false
 ---
 
-Adapt But Don't Forget accepted at ICCV 2025 ([2COOOL Workshop](https://mars2workshop.github.io/iccv2025/), Poster Presentation)!
+Accepted Summer 2026 Internship Offer from Collins Aerospace, and will be working on Agentic Vision Language Models!
